@@ -4,8 +4,7 @@
   "description": "Mapty application",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "start": "parcel index.html"
   },
   "author": "Ana",
   "license": "ISC",
