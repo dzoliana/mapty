@@ -4,7 +4,7 @@ This is Mapty application, where user can add workouts for running and cycling a
 
 ![mapty](/mapty.png)
 
-# Built with
+## Built with
 
 - HTML
 - SCSS
